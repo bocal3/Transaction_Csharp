@@ -10,3 +10,5 @@ Thanks to this project , I can create a dll that I use in all my other projects.
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+Les transactions ne sont pas supporter par MyIsam. Il faut utiliser InnoDb.
